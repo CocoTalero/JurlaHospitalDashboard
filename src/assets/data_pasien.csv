@@ -1,0 +1,167 @@
+Patient Name,Age,Disease,Department,Admission Date,Discharge Date,Patient Type,Room Class,Insurance Status
+James Smith,45,Heart Failure,Cardiology,Monday 2026-05-18,Not Discharged,Inpatient,VVIP,Insured
+Mary Johnson,32,Migraine,Neurology,Tuesday 2026-05-19,Friday 2026-05-22,Inpatient,VVIP,Insured
+Robert Williams,50,Severe Trauma,ICU,Wednesday 2026-05-20,Not Discharged,Inpatient,VVIP,Uninsured
+Patricia Brown,28,Lupus,Immunology,Thursday 2026-05-21,Monday 2026-05-25,Inpatient,VVIP,Insured
+John Jones,60,Osteoarthritis,Orthopedics,Friday 2026-05-22,Not Discharged,Inpatient,VVIP,Insured
+Jennifer Garcia,12,Asthma,Pediatrics,Saturday 2026-05-23,Tuesday 2026-05-26,Inpatient,VIP,Insured
+Michael Miller,35,Depression,Psychiatrist,Sunday 2026-05-24,Not Discharged,Inpatient,VIP,Uninsured
+Linda Davis,42,Psoriasis,Dermatology,Monday 2026-05-25,Wednesday 2026-05-27,Inpatient,VIP,Insured
+William Rodriguez,55,Dengue,General Medicine,Tuesday 2026-05-26,Not Discharged,Inpatient,VIP,Insured
+Elizabeth Martinez,29,Epilepsy,Neurology,Wednesday 2026-05-27,Saturday 2026-05-30,Inpatient,VIP,Insured
+David Hernandez,48,Hypertension,Cardiology,Thursday 2026-05-28,Not Discharged,Inpatient,VIP,Uninsured
+Barbara Lopez,31,Allergies,Immunology,Friday 2026-05-29,Friday 2026-05-29,Outpatient,N/A,Insured
+Richard Gonzalez,65,Stroke,Neurology,Saturday 2026-05-30,Not Discharged,Inpatient,VIP,Insured
+Susan Wilson,8,Chickenpox,Pediatrics,Sunday 2026-05-17,Thursday 2026-05-21,Inpatient,VIP,Uninsured
+Joseph Anderson,40,Scoliosis,Orthopedics,Monday 2026-05-18,Not Discharged,Inpatient,VIP,Insured
+Jessica Thomas,27,Anxiety,Psychiatrist,Tuesday 2026-05-19,Tuesday 2026-05-19,Outpatient,N/A,Insured
+Thomas Taylor,52,Sepsis,ICU,Wednesday 2026-05-20,Not Discharged,Inpatient,VIP,Insured
+Sarah Moore,38,Eczema,Dermatology,Thursday 2026-05-21,Thursday 2026-05-21,Outpatient,N/A,Uninsured
+Charles Jackson,47,Diabetes,General Medicine,Friday 2026-05-22,Tuesday 2026-05-26,Inpatient,Class 1,Insured
+Karen Martin,33,Rheumatoid Arthritis,Immunology,Saturday 2026-05-23,Not Discharged,Inpatient,Class 1,Insured
+Christopher Lee,15,Measles,Pediatrics,Sunday 2026-05-24,Thursday 2026-05-28,Inpatient,Class 1,Uninsured
+Nancy Perez,59,Arrhythmia,Cardiology,Monday 2026-05-25,Not Discharged,Inpatient,Class 1,Insured
+Daniel Thompson,36,Schizophrenia,Psychiatrist,Tuesday 2026-05-26,Not Discharged,Inpatient,Class 1,Insured
+Lisa White,44,Melanoma,Dermatology,Wednesday 2026-05-27,Saturday 2026-05-30,Inpatient,Class 1,Uninsured
+Matthew Harris,51,Fracture,Orthopedics,Thursday 2026-05-28,Not Discharged,Inpatient,Class 1,Insured
+Betty Sanchez,26,Influenza,General Medicine,Friday 2026-05-29,Friday 2026-05-29,Outpatient,N/A,Insured
+Anthony Clark,62,Cardiac Arrest,ICU,Saturday 2026-05-30,Not Discharged,Inpatient,Class 1,Insured
+Margaret Ramirez,39,Migraine,Neurology,Sunday 2026-05-17,Sunday 2026-05-17,Outpatient,N/A,Uninsured
+Mark Lewis,41,Heart Failure,Cardiology,Monday 2026-05-18,Friday 2026-05-22,Inpatient,Class 1,Insured
+Sandra Robinson,34,Lupus,Immunology,Tuesday 2026-05-19,Not Discharged,Inpatient,Class 1,Insured
+Donald Walker,53,Osteoarthritis,Orthopedics,Wednesday 2026-05-20,Monday 2026-05-25,Inpatient,Class 1,Uninsured
+Ashley Young,10,Asthma,Pediatrics,Thursday 2026-05-21,Sunday 2026-05-24,Inpatient,Class 1,Insured
+Steven Allen,37,Depression,Psychiatrist,Friday 2026-05-22,Not Discharged,Inpatient,Class 1,Insured
+Kimberly King,46,Psoriasis,Dermatology,Saturday 2026-05-23,Wednesday 2026-05-27,Inpatient,Class 1,Uninsured
+Paul Wright,54,Dengue,General Medicine,Sunday 2026-05-24,Not Discharged,Inpatient,Class 1,Insured
+Emily Scott,25,Epilepsy,Neurology,Monday 2026-05-25,Friday 2026-05-29,Inpatient,Class 1,Insured
+Andrew Torres,49,Hypertension,Cardiology,Tuesday 2026-05-26,Not Discharged,Inpatient,Class 1,Uninsured
+Donna Nguyen,30,Allergies,Immunology,Wednesday 2026-05-27,Wednesday 2026-05-27,Outpatient,N/A,Insured
+Joshua Hill,66,Stroke,Neurology,Thursday 2026-05-28,Not Discharged,Inpatient,Class 1,Insured
+Michelle Flores,7,Chickenpox,Pediatrics,Friday 2026-05-29,Not Discharged,Inpatient,Class 1,Uninsured
+Kevin Green,43,Scoliosis,Orthopedics,Saturday 2026-05-30,Not Discharged,Inpatient,Class 1,Insured
+Carol Adams,28,Anxiety,Psychiatrist,Sunday 2026-05-17,Sunday 2026-05-17,Outpatient,N/A,Insured
+Brian Nelson,56,Sepsis,ICU,Monday 2026-05-18,Not Discharged,Inpatient,Class 2,Insured
+Amanda Baker,35,Eczema,Dermatology,Tuesday 2026-05-19,Tuesday 2026-05-19,Outpatient,N/A,Uninsured
+Edward Hall,48,Diabetes,General Medicine,Wednesday 2026-05-20,Sunday 2026-05-24,Inpatient,Class 2,Insured
+Melissa Rivera,32,Rheumatoid Arthritis,Immunology,Thursday 2026-05-21,Not Discharged,Inpatient,Class 2,Insured
+Ronald Campbell,14,Measles,Pediatrics,Friday 2026-05-22,Tuesday 2026-05-26,Inpatient,Class 2,Uninsured
+Deborah Mitchell,58,Arrhythmia,Cardiology,Saturday 2026-05-23,Not Discharged,Inpatient,Class 2,Insured
+Timothy Carter,38,Schizophrenia,Psychiatrist,Sunday 2026-05-24,Not Discharged,Inpatient,Class 2,Insured
+Stephanie Roberts,45,Melanoma,Dermatology,Monday 2026-05-25,Thursday 2026-05-28,Inpatient,Class 2,Uninsured
+Jason Gomez,50,Fracture,Orthopedics,Tuesday 2026-05-26,Not Discharged,Inpatient,Class 2,Insured
+Rebecca Phillips,27,Influenza,General Medicine,Wednesday 2026-05-27,Wednesday 2026-05-27,Outpatient,N/A,Insured
+Jeffrey Evans,61,Cardiac Arrest,ICU,Thursday 2026-05-28,Not Discharged,Inpatient,Class 2,Insured
+Sharon Turner,40,Migraine,Neurology,Friday 2026-05-29,Friday 2026-05-29,Outpatient,N/A,Uninsured
+Ryan Diaz,42,Heart Failure,Cardiology,Saturday 2026-05-30,Not Discharged,Inpatient,Class 2,Insured
+Kathleen Parker,36,Lupus,Immunology,Sunday 2026-05-17,Thursday 2026-05-21,Inpatient,Class 2,Insured
+Jacob Cruz,55,Osteoarthritis,Orthopedics,Monday 2026-05-18,Saturday 2026-05-23,Inpatient,Class 2,Uninsured
+Amy Edwards,9,Asthma,Pediatrics,Tuesday 2026-05-19,Friday 2026-05-22,Inpatient,Class 2,Insured
+Gary Collins,39,Depression,Psychiatrist,Wednesday 2026-05-20,Not Discharged,Inpatient,Class 2,Insured
+Shirley Reyes,47,Psoriasis,Dermatology,Thursday 2026-05-21,Monday 2026-05-25,Inpatient,Class 2,Uninsured
+Nicholas Stewart,57,Dengue,General Medicine,Friday 2026-05-22,Not Discharged,Inpatient,Class 2,Insured
+Angela Morris,24,Epilepsy,Neurology,Saturday 2026-05-23,Wednesday 2026-05-27,Inpatient,Class 2,Insured
+Eric Morales,48,Hypertension,Cardiology,Sunday 2026-05-24,Not Discharged,Inpatient,Class 2,Uninsured
+Anna Murphy,31,Allergies,Immunology,Monday 2026-05-25,Monday 2026-05-25,Outpatient,N/A,Insured
+Stephen Cook,64,Stroke,Neurology,Tuesday 2026-05-26,Not Discharged,Inpatient,Class 2,Insured
+Ruth Rogers,6,Chickenpox,Pediatrics,Wednesday 2026-05-27,Not Discharged,Inpatient,Class 2,Uninsured
+Jonathan Gutierrez,45,Scoliosis,Orthopedics,Thursday 2026-05-28,Not Discharged,Inpatient,Class 2,Insured
+Brenda Ortiz,29,Anxiety,Psychiatrist,Friday 2026-05-29,Friday 2026-05-29,Outpatient,N/A,Insured
+Larry Morgan,54,Sepsis,ICU,Saturday 2026-05-30,Not Discharged,Inpatient,Class 2,Insured
+Pamela Cooper,34,Eczema,Dermatology,Sunday 2026-05-17,Sunday 2026-05-17,Outpatient,N/A,Uninsured
+Justin Peterson,49,Diabetes,General Medicine,Monday 2026-05-18,Friday 2026-05-22,Inpatient,Class 2,Insured
+Nicole Bailey,33,Rheumatoid Arthritis,Immunology,Tuesday 2026-05-19,Not Discharged,Inpatient,Class 2,Insured
+Scott Reed,13,Measles,Pediatrics,Wednesday 2026-05-20,Sunday 2026-05-24,Inpatient,Class 3,Uninsured
+Katherine Kelly,57,Arrhythmia,Cardiology,Thursday 2026-05-21,Not Discharged,Inpatient,Class 3,Insured
+Brandon Howard,37,Schizophrenia,Psychiatrist,Friday 2026-05-22,Not Discharged,Inpatient,Class 3,Insured
+Virginia Ramos,46,Melanoma,Dermatology,Saturday 2026-05-23,Wednesday 2026-05-27,Inpatient,Class 3,Uninsured
+Benjamin Kim,52,Fracture,Orthopedics,Sunday 2026-05-24,Not Discharged,Inpatient,Class 3,Insured
+Catherine Cox,26,Influenza,General Medicine,Monday 2026-05-25,Monday 2026-05-25,Outpatient,N/A,Insured
+Samuel Ward,63,Cardiac Arrest,ICU,Tuesday 2026-05-26,Not Discharged,Inpatient,Class 3,Insured
+Christine Richardson,41,Migraine,Neurology,Wednesday 2026-05-27,Wednesday 2026-05-27,Outpatient,N/A,Uninsured
+Gregory Watson,43,Heart Failure,Cardiology,Thursday 2026-05-28,Not Discharged,Inpatient,Class 3,Insured
+Janet Brooks,37,Lupus,Immunology,Friday 2026-05-29,Not Discharged,Inpatient,Class 3,Insured
+Alexander Chavez,56,Osteoarthritis,Orthopedics,Saturday 2026-05-30,Not Discharged,Inpatient,Class 3,Uninsured
+Carolyn Wood,11,Asthma,Pediatrics,Sunday 2026-05-17,Thursday 2026-05-21,Inpatient,Class 3,Insured
+Frank James,40,Depression,Psychiatrist,Monday 2026-05-18,Not Discharged,Inpatient,Class 3,Insured
+Maria Bennett,48,Psoriasis,Dermatology,Tuesday 2026-05-19,Saturday 2026-05-23,Inpatient,Class 3,Uninsured
+Raymond Gray,58,Dengue,General Medicine,Wednesday 2026-05-20,Not Discharged,Inpatient,Class 3,Insured
+Heather Mendoza,25,Epilepsy,Neurology,Thursday 2026-05-21,Monday 2026-05-25,Inpatient,Class 3,Insured
+Patrick Ruiz,49,Hypertension,Cardiology,Friday 2026-05-22,Not Discharged,Inpatient,Class 3,Uninsured
+Diane Hughes,32,Allergies,Immunology,Saturday 2026-05-23,Saturday 2026-05-23,Outpatient,N/A,Insured
+Jack Price,65,Stroke,Neurology,Sunday 2026-05-24,Not Discharged,Inpatient,Class 3,Insured
+Julie Alvarez,5,Chickenpox,Pediatrics,Monday 2026-05-25,Not Discharged,Inpatient,Class 3,Uninsured
+Dennis Castillo,46,Scoliosis,Orthopedics,Tuesday 2026-05-26,Not Discharged,Inpatient,Class 3,Insured
+Joyce Sanders,30,Anxiety,Psychiatrist,Wednesday 2026-05-27,Wednesday 2026-05-27,Outpatient,N/A,Insured
+Jerry Patel,55,Sepsis,ICU,Thursday 2026-05-28,Not Discharged,Inpatient,Class 3,Insured
+Evelyn Myers,35,Eczema,Dermatology,Friday 2026-05-29,Friday 2026-05-29,Outpatient,N/A,Uninsured
+Tyler Long,50,Diabetes,General Medicine,Saturday 2026-05-30,Not Discharged,Inpatient,Class 3,Insured
+Joan Ross,34,Rheumatoid Arthritis,Immunology,Sunday 2026-05-17,Thursday 2026-05-21,Inpatient,Class 3,Insured
+Aaron Foster,12,Measles,Pediatrics,Monday 2026-05-18,Friday 2026-05-22,Inpatient,Class 3,Uninsured
+Victoria Jimenez,59,Arrhythmia,Cardiology,Tuesday 2026-05-19,Not Discharged,Inpatient,Class 3,Insured
+Jose Powell,39,Schizophrenia,Psychiatrist,Wednesday 2026-05-20,Not Discharged,Inpatient,Class 3,Insured
+Kelly Jenkins,47,Melanoma,Dermatology,Thursday 2026-05-21,Monday 2026-05-25,Inpatient,Class 3,Uninsured
+Adam Perry,53,Fracture,Orthopedics,Friday 2026-05-22,Not Discharged,Inpatient,Class 3,Insured
+Christina Russell,28,Influenza,General Medicine,Saturday 2026-05-23,Saturday 2026-05-23,Outpatient,N/A,Insured
+Nathan Sullivan,64,Cardiac Arrest,ICU,Sunday 2026-05-24,Not Discharged,Inpatient,Class 3,Insured
+Lauren Bell,42,Migraine,Neurology,Monday 2026-05-25,Monday 2026-05-25,Outpatient,N/A,Uninsured
+Douglas Coleman,44,Heart Failure,Cardiology,Tuesday 2026-05-26,Not Discharged,Inpatient,Class 3,Insured
+Frances Washington,38,Lupus,Immunology,Wednesday 2026-05-27,Not Discharged,Inpatient,Class 3,Insured
+Zachary Butler,57,Osteoarthritis,Orthopedics,Thursday 2026-05-28,Not Discharged,Inpatient,Class 3,Uninsured
+Martha Simmons,10,Asthma,Pediatrics,Friday 2026-05-29,Not Discharged,Inpatient,Class 3,Insured
+Peter Foster,41,Depression,Psychiatrist,Saturday 2026-05-30,Not Discharged,Inpatient,Class 3,Insured
+Judith Gonzales,49,Psoriasis,Dermatology,Sunday 2026-05-17,Thursday 2026-05-21,Inpatient,Class 3,Uninsured
+Kyle Bryant,59,Dengue,General Medicine,Monday 2026-05-18,Saturday 2026-05-23,Inpatient,Class 4,Insured
+Andrea Alexander,26,Epilepsy,Neurology,Tuesday 2026-05-19,Friday 2026-05-22,Inpatient,Class 4,Insured
+Walter Russell,50,Hypertension,Cardiology,Wednesday 2026-05-20,Not Discharged,Inpatient,Class 4,Uninsured
+Olivia Griffin,33,Allergies,Immunology,Thursday 2026-05-21,Thursday 2026-05-21,Outpatient,N/A,Insured
+Ethan Hayes,66,Stroke,Neurology,Friday 2026-05-22,Not Discharged,Inpatient,Class 4,Insured
+Ann Wagner,7,Chickenpox,Pediatrics,Saturday 2026-05-23,Wednesday 2026-05-27,Inpatient,Class 4,Uninsured
+Jeremy Gibson,47,Scoliosis,Orthopedics,Sunday 2026-05-24,Not Discharged,Inpatient,Class 4,Insured
+Jean Wallace,31,Anxiety,Psychiatrist,Monday 2026-05-25,Monday 2026-05-25,Outpatient,N/A,Insured
+Christian Harrison,56,Sepsis,ICU,Tuesday 2026-05-26,Not Discharged,Inpatient,Class 4,Insured
+Alice Ford,36,Eczema,Dermatology,Wednesday 2026-05-27,Wednesday 2026-05-27,Outpatient,N/A,Uninsured
+Keith Stone,51,Diabetes,General Medicine,Thursday 2026-05-28,Not Discharged,Inpatient,Class 4,Insured
+Jacqueline West,35,Rheumatoid Arthritis,Immunology,Friday 2026-05-29,Not Discharged,Inpatient,Class 4,Insured
+Roger Cole,14,Measles,Pediatrics,Saturday 2026-05-30,Not Discharged,Inpatient,Class 4,Uninsured
+Megan Ellis,60,Arrhythmia,Cardiology,Sunday 2026-05-17,Thursday 2026-05-21,Inpatient,Class 4,Insured
+Terry Meyer,40,Schizophrenia,Psychiatrist,Monday 2026-05-18,Not Discharged,Inpatient,Class 4,Insured
+Hannah Mcdonald,48,Melanoma,Dermatology,Tuesday 2026-05-19,Saturday 2026-05-23,Inpatient,Class 4,Uninsured
+Sean Castro,54,Fracture,Orthopedics,Wednesday 2026-05-20,Not Discharged,Inpatient,Class 4,Insured
+Gloria Washington,29,Influenza,General Medicine,Thursday 2026-05-21,Thursday 2026-05-21,Outpatient,N/A,Insured
+Arthur Woods,65,Cardiac Arrest,ICU,Friday 2026-05-22,Not Discharged,Inpatient,Class 4,Insured
+Theresa Palmer,43,Migraine,Neurology,Saturday 2026-05-23,Saturday 2026-05-23,Outpatient,N/A,Uninsured
+Lawrence Holmes,45,Heart Failure,Cardiology,Sunday 2026-05-24,Not Discharged,Inpatient,Class 4,Insured
+Dorothy Hicks,39,Lupus,Immunology,Monday 2026-05-25,Not Discharged,Inpatient,Class 4,Insured
+Jesse Crawford,58,Osteoarthritis,Orthopedics,Tuesday 2026-05-26,Not Discharged,Inpatient,Class 4,Uninsured
+Marie Mason,11,Asthma,Pediatrics,Wednesday 2026-05-27,Not Discharged,Inpatient,Class 4,Insured
+Willie Boyd,42,Depression,Psychiatrist,Thursday 2026-05-28,Not Discharged,Inpatient,Class 4,Insured
+Grace Kennedy,50,Psoriasis,Dermatology,Friday 2026-05-29,Not Discharged,Inpatient,Class 4,Uninsured
+Billy Warren,60,Dengue,General Medicine,Saturday 2026-05-30,Not Discharged,Inpatient,Class 4,Insured
+Beverly Dixon,27,Epilepsy,Neurology,Sunday 2026-05-17,Thursday 2026-05-21,Inpatient,Class 4,Insured
+Albert Ramos,51,Hypertension,Cardiology,Monday 2026-05-18,Friday 2026-05-22,Inpatient,Class 4,Uninsured
+Denise Reyes,34,Allergies,Immunology,Tuesday 2026-05-19,Tuesday 2026-05-19,Outpatient,N/A,Insured
+Bruce Burns,67,Stroke,Neurology,Wednesday 2026-05-20,Not Discharged,Inpatient,Class 4,Insured
+Jane Gordon,8,Chickenpox,Pediatrics,Thursday 2026-05-21,Monday 2026-05-25,Inpatient,Class 4,Uninsured
+Ralph Shaw,48,Scoliosis,Orthopedics,Friday 2026-05-22,Not Discharged,Inpatient,Class 4,Insured
+Marilyn Hunter,32,Anxiety,Psychiatrist,Saturday 2026-05-23,Saturday 2026-05-23,Outpatient,N/A,Insured
+Roy Robertson,57,Sepsis,ICU,Sunday 2026-05-24,Not Discharged,Inpatient,Class 4,Insured
+Diana Daniels,37,Eczema,Dermatology,Monday 2026-05-25,Monday 2026-05-25,Outpatient,N/A,Uninsured
+Eugene Hunt,52,Diabetes,General Medicine,Tuesday 2026-05-26,Not Discharged,Inpatient,Class 4,Insured
+Amber Palmer,36,Rheumatoid Arthritis,Immunology,Wednesday 2026-05-27,Not Discharged,Inpatient,Class 4,Insured
+Wayne Webb,15,Measles,Pediatrics,Thursday 2026-05-28,Not Discharged,Inpatient,Class 4,Uninsured
+Danielle Black,61,Arrhythmia,Cardiology,Friday 2026-05-29,Not Discharged,Inpatient,Class 4,Insured
+Louis Harper,41,Schizophrenia,Psychiatrist,Saturday 2026-05-30,Not Discharged,Inpatient,Class 4,Insured
+Rachel Fox,49,Melanoma,Dermatology,Sunday 2026-05-17,Thursday 2026-05-21,Inpatient,Class 4,Uninsured
+Russell Riley,55,Fracture,Orthopedics,Monday 2026-05-18,Saturday 2026-05-23,Inpatient,Class 4,Insured
+Crystal Stephens,30,Influenza,General Medicine,Tuesday 2026-05-19,Tuesday 2026-05-19,Outpatient,N/A,Insured
+Philip Weaver,66,Cardiac Arrest,ICU,Wednesday 2026-05-20,Not Discharged,Inpatient,Class 4,Insured
+Emma Grant,44,Migraine,Neurology,Thursday 2026-05-21,Thursday 2026-05-21,Outpatient,N/A,Uninsured
+Alan Elliott,46,Heart Failure,Cardiology,Friday 2026-05-22,Not Discharged,Inpatient,Class 4,Insured
+Brittany Lane,40,Lupus,Immunology,Saturday 2026-05-23,Not Discharged,Inpatient,Class 4,Insured
+Juan Lawson,59,Osteoarthritis,Orthopedics,Sunday 2026-05-24,Not Discharged,Inpatient,Class 4,Uninsured
+Shirley Kelley,12,Asthma,Pediatrics,Monday 2026-05-25,Friday 2026-05-29,Inpatient,Class 4,Insured
+Vincent Austin,43,Depression,Psychiatrist,Tuesday 2026-05-26,Not Discharged,Inpatient,Class 4,Insured
+Cynthia Dunn,51,Psoriasis,Dermatology,Wednesday 2026-05-27,Not Discharged,Inpatient,Class 4,Uninsured
+Bradley Owens,61,Dengue,General Medicine,Thursday 2026-05-28,Not Discharged,Inpatient,Class 4,Insured
+Kathryn Burton,28,Epilepsy,Neurology,Friday 2026-05-29,Not Discharged,Inpatient,Class 4,Insured
